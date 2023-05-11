@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+.App{
+    width: 95vw;
+    height: 95vh;
+    margin-left: 2.5vw;
+}
